@@ -1,6 +1,8 @@
 # PUGbot
 
-PUGbot allows discord users to request and view ESEA profile data in their server via discord.py
+PUGbot allows Discord users to request and view ESEA profile data in their server.
+
+The Discord bot is built using discord.py, and the web scraper is built using the BeautifulSoup4 library.
 
 ## Notice
 
